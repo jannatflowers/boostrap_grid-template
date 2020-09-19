@@ -1,0 +1,19 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+header, .hero, .body, .bar,footer{
+	background-color: gray;
+	padding-top: 20px;
+	margin-bottom: 20px;
+}
+.box{
+	min-height: 100px;
+	background-color: green;
+	font-size: 22px;
+	margin-bottom: 20px;
+
+}
+.b_red{
+	background-color: red;
+}
